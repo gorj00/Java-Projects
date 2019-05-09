@@ -66,7 +66,7 @@ public class ProhledavacSlov {
             DataInputStream dos = new DataInputStream(fis);
             BufferedReader br = new BufferedReader(new InputStreamReader(dos));
 
-            // Aktuální testovaný řáýdek
+            // Aktuální testovaný řádek
             String testovanyRadek;
 
             // Testování celého textového souboru a navyšování počtu shod
